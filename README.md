@@ -1,5 +1,5 @@
 # MotorSketch
-A program for the Teensy 3 board (with a arm - it should also work for an STM32 board) to test a motor control program with quadrature rotary encoder feedback.
+A program for the Teensy 3 board (with an arm - it should also work for an STM32 board) to test a motor control program with quadrature rotary encoder feedback.
 
 This isn't much use without the specific hardware, but if you're trying to read a quadrature rotary encoder output with interrupts, you might find the interrupt code here useful.
 
